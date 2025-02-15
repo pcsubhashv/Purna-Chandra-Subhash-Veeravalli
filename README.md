@@ -3,7 +3,16 @@
 Master's in Management Information Systems
 
 ### Work Experience
-Associate Software Engineer
+# Associate Software Engineer
+Develop, test, and maintain software applications based on client requirements, including designing new features 
+and debugging.
+• Collaborate with cross-functional teams to ensure alignment of software solutions with business needs.
+• Ensure software quality through unit testing
+• Conducted data collection, cleaning, and preprocessing to ensure high-quality datasets for analysis in the Zurich 
+Farmers project.
+• Involved in code deployment and testing according to the release schedule. Supported teams during functional, 
+system, database, GUI, regression, and smoke testing, including DB2 data testing in mainframe technology.
+
 
 ### Projects
 # Credit Card Risk Prediction Using Machine Learning
