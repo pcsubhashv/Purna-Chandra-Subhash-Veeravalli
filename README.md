@@ -1,4 +1,4 @@
-![](https://github.com/pcsubhashv/Purna-Chandra-Subhash-Veeravalli/blob/main/images/edited%20one.jpeg)
+![](/images/edited%20one.jpeg)
 # Education
 Master's in Management Information Systems
 
