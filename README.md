@@ -1,4 +1,4 @@
-![](https://github.com/pcsubhashv/Purna-Chandra-Subhash-Veeravalli/blob/main/assets/WhatsApp%20Image%202025-02-15%20at%203.10.31%20PM.jpeg)
+![](https://github.com/pcsubhashv/Purna-Chandra-Subhash-Veeravalli/blob/main/images/edited%20one.jpeg)
 # Education
 Master's in Management Information Systems
 
