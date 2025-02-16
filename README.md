@@ -30,6 +30,13 @@ creditworthiness and risk management.
 * Proposed strategies to improve cybersecurity, with a focus on risk management, partner security, employee 
 training, and stronger network defenses.
 
+### Strategic Process Improvement of Ramsville Transactions Oct 2024 – Nov 2024
+* Utilized Value Stream Mapping to conduct an in-depth analysis of the current and future states of Ramsville 
+transactions, focusing on workflow efficiencies.
+* Identified critical inefficiencies and opportunities for process integration, staffing optimization, and inventory 
+reduction to streamline operations.
+* Delivered comprehensive actionable recommendations for enhancing operational efficiency and promoting crosstraining initiatives among employees to bolster overall productivity. 
+
 ### Tableau Visualization of Employee Attrition Dataset Mar 2024 – April 2024
 * Developed an interactive Tableau dashboard designed to thoroughly analyze employee attrition data across 
 various departments and demographics.
