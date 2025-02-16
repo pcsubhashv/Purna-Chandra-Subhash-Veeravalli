@@ -30,6 +30,8 @@ creditworthiness and risk management.
 * Proposed strategies to improve cybersecurity, with a focus on risk management, partner security, employee 
 training, and stronger network defenses.
 
+![](/images/Factors%20contributing%20fro%20TSMC%20and%20Chipotle%20Cyber%20attacks.png)
+
 ### [Strategic Process Improvement of Ramsville Transactions Oct 2024 – Nov 2024](https://github.com/pcsubhashv/pcsubhashv.github.io/blob/main/images/Ramsville%20Transcations%20Case%20Assignment%20Part-2.pdf)
 * Utilized Value Stream Mapping to conduct an in-depth analysis of the current and future states of Ramsville 
 transactions, focusing on workflow efficiencies.
