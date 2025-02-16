@@ -23,8 +23,8 @@ optimization of model performance through techniques like feature selection and 
 * Improved prediction accuracy significantly, aiding financial institutions in making informed assessments of 
 creditworthiness and risk management.
 
-### [Cybersecurity Failures in the Supply Chain: Insights from TSMC & Hexion (Sep 2024 – Nov2024)](https://github.com/pcsubhashv/pcsubhashv.github.io/blob/main/images/Final%20Term%20Paper%20.pdf)
-* Analyzed cybersecurity breaches at TSMC and Hexion, focusing on supply chain vulnerabilities.
+### [Cybersecurity Failures in the Supply Chain: Insights from TSMC & Chipotle (Sep 2024 – Nov2024)](https://github.com/pcsubhashv/pcsubhashv.github.io/blob/main/images/Final%20Term%20Paper%20.pdf)
+* Analyzed cybersecurity breaches at TSMC and Chipotle, focusing on supply chain vulnerabilities.
 * Investigated causes, impacts, and key weaknesses in their systems and supply chains.
 * Assessed the effectiveness of their response measures, highlighting supply chain risks.
 * Proposed strategies to improve cybersecurity, with a focus on risk management, partner security, employee 
@@ -35,7 +35,12 @@ training, and stronger network defenses.
 transactions, focusing on workflow efficiencies.
 * Identified critical inefficiencies and opportunities for process integration, staffing optimization, and inventory 
 reduction to streamline operations.
-* Delivered comprehensive actionable recommendations for enhancing operational efficiency and promoting crosstraining initiatives among employees to bolster overall productivity. 
+* Delivered comprehensive actionable recommendations for enhancing operational efficiency and promoting crosstraining initiatives among employees to bolster overall productivity.
+
+![](/images/Current%20state%20map%20of%20ramsville.png)
+
+![](/images/Future%20state%20map%20of%20ramsville.png)
+
 
 ### Tableau Visualization of Employee Attrition Dataset Mar 2024 – April 2024
 * Developed an interactive Tableau dashboard designed to thoroughly analyze employee attrition data across 
