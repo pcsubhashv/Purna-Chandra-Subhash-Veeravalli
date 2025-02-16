@@ -15,7 +15,7 @@ system, database, GUI, regression, and smoke testing, including DB2 data testing
 
 
 # Projects
-### Credit Card Risk Prediction Using Machine Learning
+### [Credit Card Risk Prediction Using Machine Learning](https://github.com/pcsubhashv/pcsubhashv.github.io/blob/main/images/Predictive%20Model%20for%20Credit%20Card%20Approval%20-%20Deliverable%203%20-%20final.pdf)
 * Developed and implemented multiple machine learning models, including Logistic Regression, MLP Classifier, 
 and Neural Networks, to effectively predict credit risk in financial data.
 * Performed extensive data preprocessing using Python libraries such as Pandas and NumPy, followed by 
