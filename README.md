@@ -1,4 +1,4 @@
-![](/images/edited%20one.jpeg)
+![](/images/cropped.jpeg)
 # Education
 Master's in Management Information Systems
 
