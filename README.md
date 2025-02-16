@@ -1,16 +1,16 @@
 ![](/images/cropped.jpeg)
 # Education
-Master's in Management Information Systems
+Master's in Management Information Systems Minor in Supply Chain Management - CGPA: 3.9
 
 # Work Experience
 ### Associate Software Engineer
-Develop, test, and maintain software applications based on client requirements, including designing new features 
+* Develop, test, and maintain software applications based on client requirements, including designing new features 
 and debugging.
-Collaborate with cross-functional teams to ensure alignment of software solutions with business needs.
+* Collaborate with cross-functional teams to ensure alignment of software solutions with business needs.
 Ensure software quality through unit testing
-Conducted data collection, cleaning, and preprocessing to ensure high-quality datasets for analysis in the Zurich 
+* Conducted data collection, cleaning, and preprocessing to ensure high-quality datasets for analysis in the Zurich 
 Farmers project.
-Involved in code deployment and testing according to the release schedule. Supported teams during functional, 
+* Involved in code deployment and testing according to the release schedule. Supported teams during functional, 
 system, database, GUI, regression, and smoke testing, including DB2 data testing in mainframe technology.
 
 
@@ -22,11 +22,11 @@ Performed extensive data preprocessing using Python libraries such as Pandas and
 optimization of model performance through techniques like feature selection and hyperparameter tuning.
 Improved prediction accuracy significantly, aiding financial institutions in making informed assessments of 
 creditworthiness and risk management.
-### Cybersecurity Failures in the Supply Chain: Insights from TSMC & Hexion (Sep 2024 – Nov2024)
-Analyzed cybersecurity breaches at TSMC and Hexion, focusing on supply chain vulnerabilities.
-Investigated causes, impacts, and key weaknesses in their systems and supply chains.
-Assessed the effectiveness of their response measures, highlighting supply chain risks.
-Proposed strategies to improve cybersecurity, with a focus on risk management, partner security, employee 
+### [Cybersecurity Failures in the Supply Chain: Insights from TSMC & Hexion (Sep 2024 – Nov2024)](https://github.com/pcsubhashv/pcsubhashv.github.io/blob/main/images/Final%20Term%20Paper%20.pdf)
+* Analyzed cybersecurity breaches at TSMC and Hexion, focusing on supply chain vulnerabilities.
+* Investigated causes, impacts, and key weaknesses in their systems and supply chains.
+* Assessed the effectiveness of their response measures, highlighting supply chain risks.
+* Proposed strategies to improve cybersecurity, with a focus on risk management, partner security, employee 
 training, and stronger network defenses.
 ### Tableau Visualization of Employee Attrition Dataset Mar 2024 – April 2024
 Developed an interactive Tableau dashboard designed to thoroughly analyze employee attrition data across 
