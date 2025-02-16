@@ -1,4 +1,4 @@
-![](/images/cropped.jpeg)
+![](/images/final.jpeg)
 # Education
 Master's in Management Information Systems, Minor in Supply Chain Management - CGPA: 3.9
 
